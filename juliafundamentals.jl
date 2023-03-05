@@ -205,6 +205,6 @@ else
     print("You are in a country or than India")
 end
 
-using nbec
+using NBInclude
 
 nbexport("juliafundamentals.jl", "juliafundamentals.ipynb")
